@@ -1,1 +1,1 @@
-![玄武湖](https://octodex.github.com/images/yaktocat.png)
+![Xuanwu Lake](https://octodex.github.com/images/yaktocat.png)
